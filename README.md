@@ -9,3 +9,6 @@ Responsive layout for different screen sizes
 Hover effects and transitions
 Sidebar navigation and playlist section
 Styled music player UI at the bottom
+
+🔗 Live Demo  
+https://rohanbide-2006.github.io/CSS-project-Spotify-Clone/
